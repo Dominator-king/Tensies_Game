@@ -8,9 +8,9 @@ This is a tensies game i built using react, it uses state and effect hooks to ma
 
 ##Coding experience gained
 
--Learnt to use React components,
--Learnt to effectively use React States,
--Learnt to effectively use effect hook,
--Practiced CSS, JavaScript basic and intermediate concepts 
+- Learnt to use React components
+- Learnt to effectively use React States
+- Learnt to effectively use effect hook
+- Practiced CSS, JavaScript basic and intermediate concepts 
 
 
