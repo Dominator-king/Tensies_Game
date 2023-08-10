@@ -1,6 +1,6 @@
 # Tensies-Game
 
-## [Link to the Game ](tenisiesgamee.netlify.app)
+## [Link to the Game ](https://tenisiesgamee.netlify.app/)
  
 ## Working
 
