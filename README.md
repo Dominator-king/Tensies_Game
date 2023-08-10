@@ -1,6 +1,6 @@
 # Tensies-Game
 
-## [Link to the Game ](https://dominator-king.github.io/Tensies_Game/)
+## [Link to the Game ](tenisiesgamee.netlify.app)
  
 ## Working
 
